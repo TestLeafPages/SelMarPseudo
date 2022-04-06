@@ -4,8 +4,6 @@ package week1.day1.assignments;
 
 public class FibonacciSeries {
 
-	
-
 	/*
 
 	 * Goal: To find Fibonacci Series for a given range
@@ -42,34 +40,19 @@ public class FibonacciSeries {
 
 	public static void main(String[] args) {
 
-		
-
 		// initialize 3 int variables (Tip: range & firstNum, secNum in the series)
-
-		
 
 		// Iterate from 1 to the range
 
-		
+		// Print first number 
 
-			// Print first number 
+		// add first and second number
 
-			
+		// Assign second number to the first number
 
-			// add first and second number
-
-			
-
-			// Assign second number to the first number
+	        // Assign sum to the second number
 
 			
-
-			// Assign sum to the second number
-
-			
-
-		
-
 
 
 	}
