@@ -54,7 +54,7 @@ public class PrimeNumber {
 
 		
 
-		// Iterate from 1 to half of the input
+		// Iterate from 2 to input-1
 
 		
 
