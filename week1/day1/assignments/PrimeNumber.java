@@ -36,48 +36,48 @@ public class PrimeNumber {
 
 	 * 3) 
 
-	 * 
-
 	 */
 
-	
-
 	public static void main(String[] args) {
-
-
-
+Pseudocode 1:
 		// Declare an int Input and assign a value
 
-		
+		// Declare a boolean Input as flag
 
-		// Declare a boolean input as flag
+		// Iterate from 2 to Input-1
 
-		
+		// Divide the Input with each for loop variable and check the remainder
 
-		// Iterate from 2 to input-1
-
-		
-
-			// Divide the input with each for loop variable and check the remainder
-
-			
-
-				// Set the flag as true when there is no remainder
-
-				
+		// Set the flag as true when there is no remainder
+	
 		// break the iterator
-
 
 		// Check the flag (Provide a condition)
 
+		// Print 'Prime' when the condition matches
+
+		// Print 'Not a Prime' when the condition doesn't match 
+
+		(OR)
+		Pseudocode 2:
+		// Declare an int Input and assign a value
 		
+		// Initialize the count variable as 0
+		
+		//Iterate from 1 to given Input
+		
+		// Divide the Input with each  number from for loop  and check the remainder
+		
+		//if the remainder value is 0. Increase the count variables
+		
+		// Check the count (Provide a condition) if its 2
+		
+		// Print 'Prime' when the condition matches
 
-			// Print 'Prime' when the condition matches
+		// Print 'Not a Prime' when the condition doesn't match 
 
-			
-
-			// Print 'Not a Prime' when the condition doesn't match 
-
+		
+		
    }
 
 }
