@@ -29,15 +29,15 @@ public class SumOfDigits {
 
 		// Within loop: get the remainder when done by 10 -> Tip: use mod
 
-			// Print the remainder to confirm
+		// Print the remainder to confirm
 	
-			// Within loop: add that remainder to the sum
+		// Within loop: add that remainder to the sum
 	
-			// Print the sum to confirm
+		// Print the sum to confirm
 	
-			// Within loop: get quotient of that number (tip: quotient should be same variable of loop condition)
+		// Within loop: get quotient of that number (tip: quotient should be same variable of loop condition)
 	
-			// Print the quotient to confirm
+		// Print the quotient to confirm
 		
 		// Outside the loop: print the final sum
 	}
