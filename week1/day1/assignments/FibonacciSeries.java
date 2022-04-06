@@ -60,7 +60,7 @@ public class FibonacciSeries {
 
 			
 
-			// Assign second nuumber to the first number
+			// Assign second number to the first number
 
 			
 
