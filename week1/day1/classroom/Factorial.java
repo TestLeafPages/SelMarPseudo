@@ -22,21 +22,16 @@ public class Factorial {
 	public static void main(String[] args) {
 
 		// Declare your input number
-		
-		
+			
 		// Declare and initialize an integer variable by name: fact
 		
-
 		// Iterate from 1 to your input (tip: using loop concept)
 		
-
-			// Within the loop: Multiply fact with the iterator variable (Tip: Assign it to the 'fact' variable)
+                // Within the loop: Multiply fact with the iterator variable (Tip: Assign it to the 'fact' variable)
 			
-
-		//End of loop
+                //End of loop
 		
-
-		// Print factorial (fact)
+               // Print factorial (fact)
 	
 	}
 
